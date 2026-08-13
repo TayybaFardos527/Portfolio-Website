@@ -2,6 +2,7 @@
 
 A modern, responsive developer portfolio built with React, Framer Motion, Lucide icons, and custom CSS. The experience uses a dark editorial visual system, animated section reveals, glassmorphism panels, responsive navigation, project showcases, and a focused contact area.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-4f46e5?style=for-the-badge)](https://portfolio-website-tayyba1.vercel.app/)
 ## Highlights
 
 The portfolio includes an animated hero with a code-window visual, floating capability cards, scroll-reveal transitions, responsive project cards, an about section, a skills toolkit, social links, and a contact call-to-action. The project cards link to real GitHub repositories.
